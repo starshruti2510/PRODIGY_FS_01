@@ -1,4 +1,4 @@
-# PRODIGY_FS_01 - MERN Authentication System
+# MERN Secure User Authentication System
 
 ## 📌 Project Overview
 
