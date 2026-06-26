@@ -40,6 +40,10 @@ npm install
 npm start
 ```
 
+### Live Demo
+
+https://prodigy-fs-01-ui.vercel.app
+
 ## 👩‍💻 Author
 
 Shruti Sharma
